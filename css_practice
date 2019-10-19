@@ -1,12 +1,9 @@
 <!DOCTYPE html>
 <html>
-<style>
-  p{ style="font-family: Arial;"}
-</style>
 
 <head>
   <title>Vacation World</title>
-  <link href="style.css" type="text/css" rel="stylesheet">
+  <link href="./style_css" type="text/css" rel="stylesheet">
 </head>
 
 <body>
