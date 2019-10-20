@@ -10,11 +10,6 @@ h1 {
   color: teal;
 }
 
-#article-title{
-  font-family: cursive;
-  text-transform: capitalize;
-}
-
 .uppercase {
   text-transform: uppercase;
 }
